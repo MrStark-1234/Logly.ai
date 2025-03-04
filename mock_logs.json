@@ -1,0 +1,50 @@
+{"timestamp": "2024-03-01T13:47:18.960152", "message": "Cache miss for key: user_preferences", "log_stream_name": "mock-stream-1", "event_id": "mock-event-0"}
+{"timestamp": "2024-03-01T22:36:21.113744", "message": "Database query executed in 150ms", "log_stream_name": "mock-stream-1", "event_id": "mock-event-1"}
+{"timestamp": "2024-03-01T07:43:16.022917", "message": "Cache miss for key: user_preferences", "log_stream_name": "mock-stream-1", "event_id": "mock-event-2"}
+{"timestamp": "2024-03-01T16:04:09.057251", "message": "HTTP GET /api/v1/users - 200 OK", "log_stream_name": "mock-stream-1", "event_id": "mock-event-3"}
+{"timestamp": "2024-03-01T13:25:10.659263", "message": "Background job completed", "log_stream_name": "mock-stream-1", "event_id": "mock-event-4"}
+{"timestamp": "2024-03-01T02:01:23.678759", "message": "Database query executed in 150ms", "log_stream_name": "mock-stream-1", "event_id": "mock-event-5"}
+{"timestamp": "2024-03-01T11:18:12.561478", "message": "Database query executed in 150ms", "log_stream_name": "mock-stream-1", "event_id": "mock-event-6"}
+{"timestamp": "2024-03-01T06:21:59.466307", "message": "Scheduled maintenance started", "log_stream_name": "mock-stream-1", "event_id": "mock-event-7"}
+{"timestamp": "2024-03-01T05:20:00.952770", "message": "Background job completed", "log_stream_name": "mock-stream-1", "event_id": "mock-event-8"}
+{"timestamp": "2024-03-01T18:19:56.216427", "message": "Background job completed", "log_stream_name": "mock-stream-1", "event_id": "mock-event-9"}
+{"timestamp": "2024-03-01T16:20:07.442075", "message": "Scheduled maintenance started", "log_stream_name": "mock-stream-1", "event_id": "mock-event-10"}
+{"timestamp": "2024-03-01T08:06:28.099489", "message": "API request completed successfully", "log_stream_name": "mock-stream-1", "event_id": "mock-event-11"}
+{"timestamp": "2024-03-01T05:50:34.572374", "message": "Database query executed in 150ms", "log_stream_name": "mock-stream-1", "event_id": "mock-event-12"}
+{"timestamp": "2024-03-01T01:10:02.079038", "message": "Scheduled maintenance started", "log_stream_name": "mock-stream-1", "event_id": "mock-event-13"}
+{"timestamp": "2024-03-01T10:07:14.919139", "message": "Background job completed", "log_stream_name": "mock-stream-1", "event_id": "mock-event-14"}
+{"timestamp": "2024-03-01T03:52:47.541877", "message": "API request completed successfully", "log_stream_name": "mock-stream-1", "event_id": "mock-event-15"}
+{"timestamp": "2024-03-01T04:23:31.586049", "message": "Cache miss for key: user_preferences", "log_stream_name": "mock-stream-1", "event_id": "mock-event-16"}
+{"timestamp": "2024-03-01T17:40:11.736388", "message": "Cache miss for key: user_preferences", "log_stream_name": "mock-stream-1", "event_id": "mock-event-17"}
+{"timestamp": "2024-03-01T22:14:23.259852", "message": "HTTP GET /api/v1/users - 200 OK", "log_stream_name": "mock-stream-1", "event_id": "mock-event-18"}
+{"timestamp": "2024-03-01T20:29:25.312334", "message": "New user registration: user123", "log_stream_name": "mock-stream-1", "event_id": "mock-event-19"}
+{"timestamp": "2024-03-01T16:12:00.991753", "message": "New user registration: user123", "log_stream_name": "mock-stream-1", "event_id": "mock-event-20"}
+{"timestamp": "2024-03-01T21:24:36.564830", "message": "Scheduled maintenance started", "log_stream_name": "mock-stream-1", "event_id": "mock-event-21"}
+{"timestamp": "2024-03-01T15:52:52.580733", "message": "Scheduled maintenance started", "log_stream_name": "mock-stream-1", "event_id": "mock-event-22"}
+{"timestamp": "2024-03-01T20:08:11.985931", "message": "Database query executed in 150ms", "log_stream_name": "mock-stream-1", "event_id": "mock-event-23"}
+{"timestamp": "2024-03-01T22:22:52.659174", "message": "API request completed successfully", "log_stream_name": "mock-stream-1", "event_id": "mock-event-24"}
+{"timestamp": "2024-03-01T23:26:46.269939", "message": "Config update detected", "log_stream_name": "mock-stream-1", "event_id": "mock-event-25"}
+{"timestamp": "2024-03-01T16:27:54.843816", "message": "Scheduled maintenance started", "log_stream_name": "mock-stream-1", "event_id": "mock-event-26"}
+{"timestamp": "2024-03-01T03:59:37.207733", "message": "HTTP GET /api/v1/users - 200 OK", "log_stream_name": "mock-stream-1", "event_id": "mock-event-27"}
+{"timestamp": "2024-03-01T07:36:26.292042", "message": "Background job completed", "log_stream_name": "mock-stream-1", "event_id": "mock-event-28"}
+{"timestamp": "2024-03-01T04:33:05.594599", "message": "Memory usage at 75%", "log_stream_name": "mock-stream-1", "event_id": "mock-event-29"}
+{"timestamp": "2024-03-01T10:34:52.543389", "message": "Scheduled maintenance started", "log_stream_name": "mock-stream-1", "event_id": "mock-event-30"}
+{"timestamp": "2024-03-01T12:36:57.014781", "message": "API request completed successfully", "log_stream_name": "mock-stream-1", "event_id": "mock-event-31"}
+{"timestamp": "2024-03-01T22:25:43.022833", "message": "Database query executed in 150ms", "log_stream_name": "mock-stream-1", "event_id": "mock-event-32"}
+{"timestamp": "2024-03-01T19:09:31.131912", "message": "Background job completed", "log_stream_name": "mock-stream-1", "event_id": "mock-event-33"}
+{"timestamp": "2024-03-01T16:55:48.271874", "message": "Background job completed", "log_stream_name": "mock-stream-1", "event_id": "mock-event-34"}
+{"timestamp": "2024-03-01T21:20:08.783587", "message": "Background job completed", "log_stream_name": "mock-stream-1", "event_id": "mock-event-35"}
+{"timestamp": "2024-03-01T20:37:22.696692", "message": "API request completed successfully", "log_stream_name": "mock-stream-1", "event_id": "mock-event-36"}
+{"timestamp": "2024-03-01T09:09:00.976102", "message": "User authentication successful", "log_stream_name": "mock-stream-1", "event_id": "mock-event-37"}
+{"timestamp": "2024-03-01T13:51:07.253219", "message": "Database query executed in 150ms", "log_stream_name": "mock-stream-1", "event_id": "mock-event-38"}
+{"timestamp": "2024-03-01T14:39:25.228100", "message": "Background job completed", "log_stream_name": "mock-stream-1", "event_id": "mock-event-39"}
+{"timestamp": "2024-03-01T06:43:49.531982", "message": "Background job completed", "log_stream_name": "mock-stream-1", "event_id": "mock-event-40"}
+{"timestamp": "2024-03-01T06:40:34.152520", "message": "Config update detected", "log_stream_name": "mock-stream-1", "event_id": "mock-event-41"}
+{"timestamp": "2024-03-01T18:49:50.946641", "message": "API request completed successfully", "log_stream_name": "mock-stream-1", "event_id": "mock-event-42"}
+{"timestamp": "2024-03-01T05:41:00.235132", "message": "Background job completed", "log_stream_name": "mock-stream-1", "event_id": "mock-event-43"}
+{"timestamp": "2024-03-01T08:12:36.641027", "message": "Database query executed in 150ms", "log_stream_name": "mock-stream-1", "event_id": "mock-event-44"}
+{"timestamp": "2024-03-01T04:28:57.060593", "message": "API request completed successfully", "log_stream_name": "mock-stream-1", "event_id": "mock-event-45"}
+{"timestamp": "2024-03-01T20:14:51.213294", "message": "Scheduled maintenance started", "log_stream_name": "mock-stream-1", "event_id": "mock-event-46"}
+{"timestamp": "2024-03-01T05:39:26.215636", "message": "Cache miss for key: user_preferences", "log_stream_name": "mock-stream-1", "event_id": "mock-event-47"}
+{"timestamp": "2024-03-01T18:55:07.636584", "message": "Cache miss for key: user_preferences", "log_stream_name": "mock-stream-1", "event_id": "mock-event-48"}
+{"timestamp": "2024-03-01T22:24:59.164455", "message": "New user registration: user123", "log_stream_name": "mock-stream-1", "event_id": "mock-event-49"}

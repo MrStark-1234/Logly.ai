@@ -1,0 +1,7 @@
+boto3>=1.26.0
+apache-log-parser>=1.7.0
+python-dateutil>=2.8.2
+requests>=2.28.1
+pyyaml>=6.0
+watchdog>=2.1.9
+google-generativeai>=0.3.0

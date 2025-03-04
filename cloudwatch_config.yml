@@ -1,0 +1,7 @@
+# AWS CloudWatch Configuration
+aws_access_key_id: YOUR_ACCESS_KEY_ID
+aws_secret_access_key: YOUR_SECRET_ACCESS_KEY
+region_name: us-west-2
+log_group_name: /aws/lambda/my-function
+# Optional: Specify a specific log stream
+# log_stream_name: 2023/04/01/[$LATEST]12345678 

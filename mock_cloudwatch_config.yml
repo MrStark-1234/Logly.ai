@@ -1,0 +1,2 @@
+# Mock CloudWatch Configuration
+num_events: 50  # Number of mock events to generate 
