@@ -1,4 +1,4 @@
-# Logly - Log Ingestion Tool
+# Logly.ai - A.I Powered Log Analysis Tool
 
 A Python-based tool for ingesting logs from various sources including AWS CloudWatch and Apache logs, with AI-powered analysis using Google's Gemini API.
 
