@@ -1,6 +1,6 @@
 # Logly.ai - A.I Powered Log Analysis Tool
 
-A Python-based tool for ingesting logs from various sources including AWS CloudWatch and Apache logs, with AI-powered analysis using Google's Gemini API.
+A Python-based tool for ingesting logs from various sources including AWS CloudWatch and Apache logs, with AI-powered analysis using Google's Gemini 2.0 flash API.
 
 ## Installation
 
@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ## Setting up Gemini API
 
-Before using the log analysis features, you need to set up your Gemini API key:
+Before using the log analysis features, you need to set up your Gemini 2.0 flash API key:
 
 ```bash
 # Set the API key in your terminal
