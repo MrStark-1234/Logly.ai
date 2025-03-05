@@ -18,6 +18,7 @@ def main():
     analyzer = GeminiAnalyzer(api_key)
     analyzer.load_logs_from_file(args.logs)
     
+    print("                 Logly.ai -  A log tool that let's users query in plain english   ")
     print("Log analysis session started. Type 'exit' to quit.")
     print("You can ask questions about your logs, for example:")
     print("- What are the most common types of events?")
